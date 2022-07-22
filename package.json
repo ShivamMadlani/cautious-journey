@@ -1,0 +1,24 @@
+{
+  "name": "store-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamMadlani/cautious-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivamMadlani/cautious-journey/issues"
+  },
+  "homepage": "https://github.com/ShivamMadlani/cautious-journey#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
